@@ -7,7 +7,14 @@ I'm 24 Years old and a graduate and trained computer scientist from beautiful Fr
 
 - 💞️ With innovative ideas and products I want to actively shape the world of tomorrow and develop our society.
 
-- 📫 More Informations about me you can find on my [website](https://www.fation.de)
+- 📫 More Informations about me you can find on my [website](https://www.fation.de) and other Social Madia Platforms
+
+&nbsp;
+&nbsp;
+
+[![LinkedIn](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/fation/)
+
+My Linkedin
 
 
 <!---
